@@ -2,11 +2,9 @@
      color: #282828;
      font: size 14px;
  }
- body{
-    background-color: #fff;
-
- }
+ 
  p{
+   background-color: #fff;
     color: #282828;
      font: size 12px; 
      padding: auto;
