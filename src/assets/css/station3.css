@@ -7,10 +7,10 @@
    background-color: #fff;
     color: #282828;
      font: size 12px; 
-     padding: auto;
+     padding: 1px;
  }
- div{
+ img{
     width: 288px;
     height: 182px;
-    margin-bottom:auto;
+    margin-bottom: 1px;
  }
